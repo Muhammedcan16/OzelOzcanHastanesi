@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Doktorlarımız</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="assets/img/apple-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+ 
+    <link href="assets/css/boxicon.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="assets/css/templatemo.css">
+    
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+</head>
+
+<body>
+    
+    <nav id="main_nav" class="navbar navbar-expand-lg navbar-light bg-white shadow">
+        <div class="container d-flex justify-content-between align-items-center">
+            <a class="navbar-brand h1" href="index.php">
+                <i class='bx bx-buildings bx-sm text-dark'></i>
+                <span class="text-dark h4">Özel Özcan</span> <span class="text-primary h4">Hastanesi</span>
+            </a>
+            <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler-success" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="navbar-toggler-success">
+                <div class="flex-fill mx-xl-5 mb-2">
+                    <ul class="nav navbar-nav d-flex justify-content-between mx-xl-5 text-center text-dark">
+                        <li class="nav-item">
+                            <a class="nav-link btn-outline-primary rounded-pill px-3" href="index.php">Anasayfa</a>
+                        </li>
+                       
+                        <li class="nav-item">
+                            <a class="nav-link btn-outline-primary rounded-pill px-3" href="Hizmetlerimiz.php">Hizmetlerimiz</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn-outline-primary rounded-pill px-3" href="Doktorlarımız.php">Doktorlarımız</a>
+                        </li>
+
+                        
+                        
+                    </ul>
+                </div>
+                <div class="navbar align-self-center d-flex">
+                    
+                 
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+
+
+    
+    <section class="bg-light w-100">
+        <div class="container">
+            <div class="row d-flex align-items-center py-5">
+                <div class="col-lg-6 text-start">
+                    <h1 class="h2 py-5 text-primary typo-space-line">DR. SILA DEDEOĞLU</h1>
+                    <p class="light-300">
+                    Kardioloji Bölümümüzün Değerli Hocalarından:<br>
+                        03.10.1974 tarihinde Zonguldak’da doğdum. İlk ve orta öğrenimimi aynı ilde yaparak 1990 yılında Zonguldak Mehmet Çelikel Lisesi’nden mezun oldum. 2001 yılında İstanbul Üniversitesi İstanbul Tıp Fakültesi’ne girdim ve 2002 yılında mezun olarak Tıp Doktoru ünvanını aldım. 2004 yılında asistanlık sınavını kazanarak, İstanbul Üniversitesi İstanbul Tıp Fakültesi İç Hastalıkları Anabilim Dalı’nda asistanlığa başladım. 2008 yılında İç Hastalıkları Uzmanı oldum. Askerlik Hizmetimi 1982-1983 yılları arasında Ardahan Askeri Hastanesi’nde yaptım. 2009-2011 yılları arasında Devlet Hizmeti Yükümlülüğü görevimi Milli Eğitim Gençlik ve Spor Bakanlığı Sultanahmet Sağlık Merkezi’nde tamamladım. 2013 yılında İstanbul Üniversitesi Kardiyoloji Enstitüsü’ne başasistan olarak girdim. Egzersiz Testi Laboratuvarı ve Servis sorumlusu olarak çalıştıktan sonra 2014 yılında Kateter Laboratuvarı’nda çalışmaya başladım. 2016 yılında Kardiyoloji Uzmanı oldum. 1990 yılında kardiyoloji doçentliği sınavına girerek Doçent ünvanı aldım. 2018 yılında Maryland Universitesi Ekokardiyografi Laboratuvarı’nda 3 aylık eğitim programına katıldım. Mayıs 2019 yılında İstanbul Üniversitesi İstanbul Tıp Fakültesi Kalp ve Damar Hastalıkları Araştırma ve Uygulama Merkezi’nde, Kateter Laboratuvarı ve Servis sorumlusu olarak çalışmaya başladım. 16.09.2020 tarihinde profesörlüğe atandım. Halen İstanbul Tıp Fakültesi Kardiyoloji Anabilim Dalı öğretim üyesiyim. 14.10.2021 tarihinde Özel Özcan Hastanesi'nde hasta kabulüne başladım.
+
+
+                </div>
+                <div class="col-lg-6">
+                    <img src="./assets/img/doktor.svg">
+                </div>
+            </div>
+        </div>
+    </section>
+   
+    
+    <footer class="bg-secondary pt-4">
+        <div class="container">
+            <div class="row py-4">
+
+                <div class="col-lg-3 col-12 align-left">
+                    <a class="navbar-brand" href="index.php">
+                        <i class='bx bx-buildings bx-sm text-light'></i>
+                        <span class="text-light h5">Özel Özcan</span> <span class="text-light h5 semi-bold-600">Hastanesi</span>
+                    </a>
+                    <p class="text-light my-lg-4 my-2">
+                        En iyi hizmeti vermeye çalışan özel hastanemiz.
+                    </p>
+                    
+                </div>
+
+                <div class="col-lg-3 col-md-4 my-sm-0 mt-4">
+                    <h3 class="h4 pb-lg-3 text-light light-300">Kısayollar</h2>
+                        <ul class="list-unstyled text-light light-300">
+                            <li class="pb-2">
+                                <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light" href="index.php">Anasayfa</a>
+                            </li>
+                            <li class="pb-2">
+                                <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Hizmetlerimiz.php">Hizmetlerimiz</a>
+                            </li>
+                            <li class="pb-2">
+                                <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Doktorlarımız.php">Doktorlarımız</a>
+                            </li>
+                                                        
+                            
+                        </ul>
+                </div>
+
+                <div class="col-lg-3 col-md-4 my-sm-0 mt-4">
+                    <h2 class="h4 pb-lg-3 text-light light-300">Hizmetlerimiz</h2>
+                    <ul class="list-unstyled text-light light-300">
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Goz.php">Göz Hastalıkları</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Kardioloji.php">Kardioloji</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Noroloji.php">Nöroloji</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="Ortopedi.php">Ortopedi & Tramvatoloji</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="uroloji.php">Üroloji</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="psikiyatri.php">Psikiyatri</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="kbb.php">Kulak, Burun, Boğaz Hastalıkları</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bxs-chevron-right bx-xs'></i><a class="text-decoration-none text-light py-1" href="dahiliye.php">Dahiliye</a>
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+
+                <div class="col-lg-3 col-md-4 my-sm-0 mt-4">
+                    <h2 class="h4 pb-lg-3 text-light light-300">İletişim</h2>
+                    <ul class="list-unstyled text-light light-300">
+                        <li class="pb-2">
+                            <i class='bx-fw bx bx-phone bx-xs'></i><a class="text-decoration-none text-light py-1" href="tel:05356656680">05356656680</a>
+                        </li>
+                        <li class="pb-2">
+                            <i class='bx-fw bx bx-mail-send bx-xs'></i><a class="text-decoration-none text-light py-1" href="muhammedcan1928@gmail.com">muhammedcan1928@gmail.com</a>
+                        </li>
+                        <ul class="list-inline footer-icons light-300">
+                            <li class="list-inline-item m-0">
+                                <a class="text-light" target="_blank" href="https://www.facebook.com/muhammedcan.ozcan.37">
+                                    <i class='bx bxl-facebook-square bx-md'></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item m-0">
+                                <a class="text-light" target="_blank" href="https://www.instagram.com/ozcan.muhammedcan/">
+                                    <i class='bx bxl-instagram bx-md'></i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item m-0">
+                                <a class="text-light" target="_blank" href="https://www.whatsapp.com/">
+                                    <i class='bx bxl-whatsapp-square bx-md'></i>
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="w-100 bg-primary py-3">
+            <div class="container">
+                <div class="row pt-2">
+                    <div class="col-lg-6 col-sm-12">
+                        <p class="text-lg-start text-center text-light light-300"> 
+                            © Copyright 2021 Muhammedcan ÖZCAN. Tüm Hakları Saklıdır.
+                        </p>
+                    </div>
+                    <div class="col-lg-6 col-sm-12">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    
+
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+   
+    <script src="assets/js/jquery.min.js"></script>
+    
+    <script src="assets/js/isotope.pkgd.js"></script>
+    
+    <script>
+        $(window).load(function() {
+            // init Isotope
+            var $projects = $('.projects').isotope({
+                itemSelector: '.project',
+                layoutMode: 'fitRows'
+            });
+            $(".filter-btn").click(function() {
+                var data_filter = $(this).attr("data-filter");
+                $projects.isotope({
+                    filter: data_filter
+                });
+                $(".filter-btn").removeClass("active");
+                $(".filter-btn").removeClass("shadow");
+                $(this).addClass("active");
+                $(this).addClass("shadow");
+                return false;
+            });
+        });
+    </script>
+    
+    <script src="assets/js/templatemo.js"></script>
+  
+    <script src="assets/js/custom.js"></script>
+
+</body>
+
+</html>
